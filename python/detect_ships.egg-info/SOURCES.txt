@@ -1,0 +1,8 @@
+detect_ships.py
+pyproject.toml
+detect_ships.egg-info/PKG-INFO
+detect_ships.egg-info/SOURCES.txt
+detect_ships.egg-info/dependency_links.txt
+detect_ships.egg-info/entry_points.txt
+detect_ships.egg-info/requires.txt
+detect_ships.egg-info/top_level.txt

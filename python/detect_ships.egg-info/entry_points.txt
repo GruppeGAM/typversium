@@ -1,0 +1,2 @@
+[console_scripts]
+detect_ships = detect_ships:detect_and_save_ships
